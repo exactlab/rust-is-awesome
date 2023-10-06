@@ -35,7 +35,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## Exercises
   - Beginner
     - [Guess my age](./guess_my_age/)
+    - [Slices exercise](./slices/)
   - Intermediate
+    - [Imagesum](./imagesum/)
+    - [Audiosum](./audiosum/)
   - Advanced
   - Ultimate (macros?)
 
